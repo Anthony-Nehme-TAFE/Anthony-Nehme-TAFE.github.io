@@ -3,6 +3,7 @@ width: 1200px;
 /* height: 830px; */
 /* background-color: #EBC6CB; */
 border-radius: 20px;
+margin: auto;
 }
 nav{
     text-align: right;
@@ -47,6 +48,9 @@ tr{
 th, td {
     padding: 5px;
   }
+th{
+    background-color: cyan;
+}
 label{
     display:inline-block;
     width: 200px;
